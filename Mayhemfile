@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-rvm
+project: rvm
 target: rcc
 
 cmds:
-  - cmd: /rvm/rcc @@
+  - cmd: /rvm/rcc /test.c
     filepath: /test.c
